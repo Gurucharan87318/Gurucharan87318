@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 public class GradeCalculator
-{
+   {
     public static void main(String[] args) 
-{
+    {
         System.out.println("\nSTUDENT GRADE CALCULATOR\n");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the Marks for Mid semester:");
