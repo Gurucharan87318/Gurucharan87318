@@ -1,0 +1,39 @@
+import turtle
+
+text_turtle = turtle.Turtle()
+text_turtle.hideturtle()
+text_turtle.penup()
+
+text_turtle.goto(0, 0)
+text_turtle.write("Just to say...You are Evrything for me <3", align="center", font=("Comic Sans MS", 14, "normal"))
+
+screen = turtle.Screen()
+screen.setup(width=600, height=600)
+screen.bgcolor("white")
+
+
+heart = turtle.Turtle()
+heart.color("red")
+heart.fillcolor("red")
+heart.speed(3)
+heart.penup()
+
+
+heart.goto(0, -200)
+heart.pendown()
+
+
+heart.begin_fill()
+heart.left(140)
+heart.forward(224)
+for i in range(200):
+    heart.right(1)
+    heart.forward(2)
+heart.left(120)
+for i in range(200):
+    heart.right(1)
+    heart.forward(2)
+heart.forward(224)
+heart.end_fill()
+heart.hideturtle()
+screen.mainloop()
