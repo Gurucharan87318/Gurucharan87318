@@ -86,9 +86,11 @@
 
 ### 📊 GitHub Stats & Velocity
 
-![Gurucharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurucharan87318&show_icons=true&theme=dark&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurucharan87318&layout=compact&theme=dark&hide_border=true)
-
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gurucharan87318&theme=react-dark&hide_border=true" alt="Gurucharan's GitHub Activity Graph" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurucharan87318&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</div>
 ---
 
 <div align="center">
