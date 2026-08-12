@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi there, I'm Gurucharan Senthilkumar 👋</h1>
-  <h3>AI Solutions Architect & Founder @ Reachitect Systems 🚀</h3>
+  <h3> Technical sales guy and Independent AI Solutions Architect 🚀</h3>
 
   <p><i>Bridging complex backend data engineering, AI architectures, and business intelligence.</i></p>
 
